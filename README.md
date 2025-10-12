@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Jaaron 👋
 
-<!--
-**JaaronF/JaaronF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SOC Analyst | Home Lab Builder | Detection Engineering (SIEM, Wazuh/Elastic, Splunk) | Network Security (pfSense, VLANs) | AD/Azure**  
 
-Here are some ideas to get you started:
+I build practical, blue-team-focused labs to sharpen incident response, threat detection, and cloud/secops skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Focus
+- Proxmox homelab: AD domain + pfSense + Wazuh + Elastic + Windows event pipelines
+- Threat hunting with Sysmon + Sigma rules (EQL/KQL)
+- Cloud Sec: Azure + Microsoft Defender + Sentinel workbooks
+
+## 🧪 Lab Portfolio (Pinned below)
+| Lab | What I Built | Tools | Skills |
+|---|---|---|---|
+| Active Directory + Blue Team Lab | AD DS + Win10 clients + Sysmon + Wazuh/Elastic | Proxmox, pfSense, Wazuh, Elastic | Log pipelines, detections, hardening |
+| SOC Triage Playbooks | Phishing & endpoint triage SOPs | O365, Defender, VirusTotal | IR workflows, evidence collection |
+| Network Segmentation | VLANs + IDS visibility | pfSense, Zeek/Wazuh | Segmentation, monitoring, alerting |
+| Azure Sentinel Mini | Ingest + queries + alerts | Azure, KQL | Cloud detections, dashboards |
+
+## 🛠️ Tech Stack
+Proxmox · pfSense · Windows Server/Client · Sysmon · Wazuh · Elastic · Zeek · Splunk · EVE-NG/GNS3 · Wireshark · Azure Sentinel/Defender · Python · PowerShell
+
+## 🏅 Certs
+Security+ (SY0-701) • Studying: CCNA
+
+## 📫 Contact
+- LinkedIn: your-link
+- Email: `your-noreply@users.noreply.github.com`
+
