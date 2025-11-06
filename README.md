@@ -1,29 +1,33 @@
-# Hi, I'm Jaaron 👋
+# <a href="(https://www.linkedin.com/in/jaaronf/)">Jaaron Fields</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-**SOC Analyst | Home Lab Builder | Detection Engineering (SIEM, Wazuh/Elastic, Splunk) | Network Security (pfSense, VLANs) | AD/Azure**  
+I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
-I build practical, blue-team-focused labs to sharpen incident response, threat detection, and cloud/secops skills.
+## ⚠️ Vulnerability Management Projects
 
-## 🔭 Current Focus
-- Proxmox homelab: AD domain + pfSense + Wazuh + Elastic + Windows event pipelines
-- Threat hunting with Sysmon + Sigma rules (EQL/KQL)
-- Cloud Sec: Azure + Microsoft Defender + Sentinel workbooks
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+  
 
-## 🧪 Lab Portfolio (Pinned below)
-| Lab | What I Built | Tools | Skills |
-|---|---|---|---|
-| Active Directory + Blue Team Lab | AD DS + Win10 clients + Sysmon + Wazuh/Elastic | Proxmox, pfSense, Wazuh, Elastic | Log pipelines, detections, hardening |
-| SOC Triage Playbooks | Phishing & endpoint triage SOPs | O365, Defender, VirusTotal | IR workflows, evidence collection |
-| Network Segmentation | VLANs + IDS visibility | pfSense, Zeek/Wazuh | Segmentation, monitoring, alerting |
-| Azure Sentinel Mini | Ingest + queries + alerts | Azure, KQL | Cloud detections, dashboards |
+## 🚨 Threat Hunting and Security Operations
 
-## 🛠️ Tech Stack
-Proxmox · pfSense · Windows Server/Client · Sysmon · Wazuh · Elastic · Zeek · Splunk · EVE-NG/GNS3 · Wireshark · Azure Sentinel/Defender · Python · PowerShell
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+  <hr/>
 
 ## 🏅 Certs
 Security+ (SY0-701) • Studying: CCNA
 
-## 📫 Contact
-- LinkedIn: your-link
-- Email: `your-noreply@users.noreply.github.com`
+## 🤳 Connect With Me
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[twitter]: https://twitter.com/___________
+[youtube]: https://www.youtube.com/c/___________
+[instagram]: https://www.instagram.com/___________
+[linkedin]: https://linkedin.com/in/jaaronF/
+
+<!--
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
+-->
 
