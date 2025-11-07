@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/JaaronF/vulnerability-management-program/tree/main)**
-- **[Progromattic Vulnerability Remediation].(https://github.com/JaaronF/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/JaaronF/programmatic-vulnerability-remediations)**
   
   
 
